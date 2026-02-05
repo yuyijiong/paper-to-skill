@@ -1,6 +1,9 @@
 # Paper to Skill
 
-Convert AI agent research papers into **Claude Code skills**—reusable instructions and (optionally) scripts that Claude can follow. This skill is specialized for **memory and learning systems** (experience memory, RAG, continuous learning, feedback loops).
+This is a Claude skill that can **Convert AI agent research papers into Claude skills**. 
+This skill can let you **immediately** experience how will the method in the paper benefit Claude Code execution, without having to install the code or read the paper.
+
+This skill is specialized for **memory systems** for AI agents, but may also work for other methods.
 
 ## What It Does
 
